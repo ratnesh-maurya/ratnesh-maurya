@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ratnesh-maurya
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning c language 
+- 👀 I’m interested in ethical hacking and App Development 
+- 🌱 I’m currently learning Android Develepment 
+-  
 
 <!---
 ratnesh-maurya/ratnesh-maurya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
