@@ -70,7 +70,7 @@
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/ratnesh-maurya-778867200/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/comder_/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://www.instagram.com/comder_/"><img alt="instagram" width="10%" style="padding:5px" src="[https://img.icons8.com/clouds/100/000000/instagram.png](https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1655882551~hmac=68f92e1ec020d752abc7fe0b8fda5206)"/></a>
 	<a href="https://twitter.com/ratnesh_maurya_"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
  
 </p>
