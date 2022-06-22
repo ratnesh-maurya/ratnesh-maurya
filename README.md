@@ -70,8 +70,7 @@
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/ratnesh-maurya-778867200/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	
-	<a href="https://twitter.com/ratnesh_maurya_"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+
  
 </p>
 
