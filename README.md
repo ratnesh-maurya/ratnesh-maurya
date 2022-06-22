@@ -1,6 +1,6 @@
 # Hi there, I'm RATNESH MAURYA - 
 
-<img align="right" alt="GIF" height="160px" src="https://tenor.com/view/coding-gif-24297652" />
+<img align="right" alt="GIF" height="160px" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
 - I'm  **Learner** | **Programmer** 
