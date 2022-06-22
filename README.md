@@ -56,12 +56,6 @@
   
   
   ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ratnesh-maurya&theme=github)
-
-
-  
-  
-  ---
   <p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br>
 <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
