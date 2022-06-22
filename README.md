@@ -87,6 +87,4 @@
 <a href="https://icons8.com/icon/40669/c++">
 	
 	 
-  ![Snake animation](https://github.com/ratnesh-maurya/ratnesh-maurya/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
