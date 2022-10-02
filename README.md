@@ -78,9 +78,12 @@
 
 
 ---
-### My GitHub contribution stats:
+### My GitHub Summary:
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratnesh-maurya&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratnesh-maurya&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-maurya&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratnesh-maurya&theme=monokai&utcOffset=5)
 
 
 #### Profile views counter
