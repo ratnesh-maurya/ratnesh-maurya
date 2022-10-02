@@ -46,10 +46,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-maurya&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratnesh-maurya&theme=monokai&utcOffset=5)
 </p>
-#### Profile views counter
 
-![Visitor Count](https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg)
-<a href="https://icons8.com/icon/40669/c++">
 		
  ### 📈 GitHub Activity Graph:
  <p align="center">
@@ -62,4 +59,7 @@
 <p align="centre">
 	<a href="https://www.linkedin.com/in/ratnesh-maurya-778867200/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
+#### Profile views counter
 
+![Visitor Count](https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg)
+<a href="https://icons8.com/icon/40669/c++">
