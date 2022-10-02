@@ -25,8 +25,7 @@
 	<img width="8%" style="padding:5px"  src="https://img.icons8.com/color/48/000000/c.png"/>
 	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/kotlin.png"/>
         <img width="8%" style="padding.5px"   src="https://img.icons8.com/color/144/000000/android-studio--v3.png"/>
-        
-       <img width="8%" style="padding.5px"  src="https://img.icons8.com/cute-clipart/64/000000/canva-app.png"/>
+        <img width="8%" style="padding.5px"  src="https://img.icons8.com/cute-clipart/64/000000/canva-app.png"/>
   
   
   ---
