@@ -59,13 +59,7 @@
   
 
 
-### Feel Free to Contact me.....
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/ratnesh-maurya-778867200/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-
- 
-</p>
 
 ---
 
@@ -85,5 +79,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg)
 <a href="https://icons8.com/icon/40669/c++">
 	
-	 
+	
+	
+### Feel Free to Contact me.....
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/ratnesh-maurya-778867200/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+
+ 
+</p>
 
