@@ -60,18 +60,14 @@
 	
 	
  ### 📈 GitHub Activity Graph:
-  <p align="center">
+ <p align="center">
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=ratnesh-maurya&count_private=true&show_icons=true&theme=algolia" alt="GitHub Status"/><br><br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh-maurya&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages">
 </p>	
-	<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
+<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
 ### Feel Free to Contact me.....
-
 <p align="centre">
 	<a href="https://www.linkedin.com/in/ratnesh-maurya-778867200/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-
- 
 </p>
 
