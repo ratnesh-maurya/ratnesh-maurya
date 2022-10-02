@@ -22,7 +22,7 @@
 <p align="center">
         <img width="8%" style="padding.5px"  src="https://img.icons8.com/color/144/000000/visual-studio.png"/>
 	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"/>
-	<img width="8%" style="padding:5px"  src="https://img.icons8.com/ios/50/000000/c.png"/>/>
+	<img width="8%" style="padding:5px"  src="https://img.icons8.com/color/48/000000/c.png"/>
 	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/kotlin.png"/>
         <img width="8%" style="padding.5px"   src="https://img.icons8.com/color/144/000000/android-studio--v3.png"/>
         <img  width="8%" style="padding.5px" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/000000/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png"/>
