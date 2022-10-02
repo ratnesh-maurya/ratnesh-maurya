@@ -55,11 +55,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ratnesh-maurya&count_private=true&show_icons=true&theme=algolia" alt="GitHub Status"/><br><br>
 <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
  </p>
-	 ### Feel Free to Contact me.....
+ # Feel Free to Contact me.....
 <p align="centre">
 	<a href="https://www.linkedin.com/in/ratnesh-maurya-778867200/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
-### Profile views counter
+# Profile views counter
 
 ![Visitor Count](https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg)
 <a href="https://icons8.com/icon/40669/c++">
