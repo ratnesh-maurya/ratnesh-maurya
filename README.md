@@ -34,7 +34,7 @@
   <!--   Top Languages Using -->  ---
   
   📊 
-  
+  <p align="center">
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratnesh-maurya&show_icons=true)
   </p>
   
