@@ -20,7 +20,7 @@
 
 ### Programming Languages and Tools...
 <p align="center">
-  <img width="8%" style="padding.5px"  src="https://img.icons8.com/color/144/000000/visual-studio.png"/>
+        <img width="8%" style="padding.5px"  src="https://img.icons8.com/color/144/000000/visual-studio.png"/>
 	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"/>
 	<img width="8%" style="padding:5px"  src="https://img.icons8.com/metro/100/000000/c.png"/>
 	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/kotlin.png"/>
@@ -36,6 +36,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ratnesh-maurya&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
+</p>
   
 ---
 ---
