@@ -75,9 +75,10 @@
 </p>
 
 ---
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 ---
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 #### Profile views counter
