@@ -1,5 +1,5 @@
 
-![unnamed (2)](https://user-images.githubusercontent.com/85143283/195772846-9b5b09a1-04d2-4d78-ad88-6e4fe51fc074.png)
+![profile-first-repo-dark](https://user-images.githubusercontent.com/85143283/195918329-a743555c-5bb1-4eed-8a1b-a35ebd3f32fb.svg)
 
 # Hi there, I'm RATNESH MAURYA
 - I'm  **Learner** | **Programmer** 
