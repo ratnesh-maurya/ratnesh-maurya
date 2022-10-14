@@ -1,15 +1,11 @@
+
+![unnamed (2)](https://user-images.githubusercontent.com/85143283/195772846-9b5b09a1-04d2-4d78-ad88-6e4fe51fc074.png)
+
 # Hi there, I'm RATNESH MAURYA
-
-<img align="right" alt="GIF" height="160px" src="https://magiccopy.xyz/assets/images/hadder.gif" />
-<br>
-
-
-
 - I'm  **Learner** | **Programmer** 
 - Currently practicing **ANDROID DEVELOPMENT**
 - Willing to contribute more and more in **Open Source Projects**
  <br>
-  <br>
   
 # Programming Languages and Tools
 <p align="center">
