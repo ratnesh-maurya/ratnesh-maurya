@@ -29,11 +29,11 @@
 # My GitHub Summary:
 <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratnesh-maurya&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratnesh-maurya&theme=jellyf1ish)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratnesh-maurya&theme=dracula&bg_color=000000)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratnesh-maurya&theme=dracula&bg_color=000000)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-maurya&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratnesh-maurya&theme=monokai&utcOffset=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-maurya&theme=dracula&bg_color=000000)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratnesh-maurya&theme=dracula&bg_color=000000)
  </p>
  </a>
 
