@@ -43,7 +43,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh-maurya&show_icons=true&layout=compact&theme=monokai" alt="Most Used Languages"><br><br>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ratnesh-maurya&count_private=true&show_icons=true&theme=monokai" alt="GitHub Status"/><br><br>
-<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=monokai&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
+<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
  </p>
  # Feel Free to Contact me.....
 <p align="centre">
