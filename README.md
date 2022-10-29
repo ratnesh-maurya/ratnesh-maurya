@@ -55,7 +55,7 @@
  # 📈 GitHub Contribution Graph:
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratnesh-maurya&theme=monokai"/><br><br>
- <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
+ <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=xcode&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
  </p>
 
 
