@@ -50,7 +50,7 @@
 
  # 📈 Coding Profile:
   <p align="center">
-<img src="https://leetcard.jacoblin.cool/ratnesh_maurya?theme=wtf&font=Poppins&ext=heatmap"/><br><br>
+<img src="https://leetcard.jacoblin.cool/ratnesh_maurya?theme=dark&font=Poppins&ext=heatmap"/><br><br>
 </p>
 
  # 📈 GitHub Contribution Graph:
