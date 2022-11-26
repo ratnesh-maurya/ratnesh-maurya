@@ -1,6 +1,5 @@
 
 [![@ratnesh_maurya's Holopin board](https://holopin.me/ratnesh_maurya)](https://holopin.io/@ratnesh_maurya)
-
 # Hi there, I'm RATNESH MAURYA
 - I'm  **Learner** | **Programmer** 
 - Currently practicing **ANDROID DEVELOPMENT**
