@@ -48,7 +48,7 @@
 
  # 📈 Coding Profile:
   <p align="center">
-<img src="[https://leetcard.jacoblin.cool/ratnesh_maurya?theme=dark&font=Poppins&ext=heatmap](https://leetcard.jacoblin.cool/ratnesh_maurya?theme=dark&font=Poppins&ext=contest)"/><br><br>
+<img src="https://leetcard.jacoblin.cool/ratnesh_maurya?theme=dark&font=Poppins&ext=contest"><br><br>
 </p>
 
  # 📈 GitHub Contribution Graph:
