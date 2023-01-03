@@ -42,7 +42,7 @@
  # 📈 GitHub Activity Graph:
  <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh-maurya&show_icons=true&layout=compact&theme=monokai" alt="Most Used Languages"><br><br>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br>
+
 	
 	
 
@@ -54,7 +54,7 @@
  # 📈 GitHub Contribution Graph:
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratnesh-maurya&theme=monokai"/><br><br>
- <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=ratnesh-maurya&theme=xcode&bg_color=000000&hide_border=true" alt="GitHub Activity" /><br><br>
+
  </p>
 
 
