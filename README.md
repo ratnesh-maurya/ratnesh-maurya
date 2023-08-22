@@ -15,7 +15,6 @@
 <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/kotlin.png" alt="kotlin"/>
 	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/api-settings.png" alt="api-settings"/>
-         <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/xml.png" alt="xml"/> 
 	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/flask.png" alt="flask"/>
 	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/jira.png" alt="jira"/>
          <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/json.png" alt="json"/>
