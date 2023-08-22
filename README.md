@@ -11,15 +11,19 @@
 
 
 <p align="center">
-	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"/>
-	<img width="8%" style="padding.5px"  src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/240/000000/kotlin.png"/>
-	<img width="8%" style="padding:5px"  src="https://img.icons8.com/color/48/000000/c.png"/>
-        <img width="8%" style="padding.5px"   src="https://img.icons8.com/color/144/000000/android-studio--v3.png"/>
-	<img width="8%" style="padding.5px"  src="https://img.icons8.com/color/144/000000/visual-studio.png"/>
-        <img width="8%" style="padding.5px"  src="https://img.icons8.com/cute-clipart/64/000000/canva-app.png"/>
-	 <img width="8%" style="padding.5px"  src="https://img.icons8.com/fluency/48/000000/figma.png"/>
-	 <img width="8%" style="padding.5px"  src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/>
+	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/python.png" alt="python"/>
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/kotlin.png" alt="kotlin"/>
+	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/api-settings.png" alt="api-settings"/>
+         <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/xml.png" alt="xml"/> 
+	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/flask.png" alt="flask"/>
+	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/jira.png" alt="jira"/>
+         <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/json.png" alt="json"/>
+	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linux--v2.png" alt="linux--v2"/>
+     <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/mongo-db.png" alt="mongo-db"/>
+	<img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/git.png" alt="git"/>
+ <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/figma.png" alt="figma"/>
+ <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/canva.png" alt="canva"/>
 	
 	
 
