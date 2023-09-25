@@ -1,7 +1,6 @@
-
 # Hi there, I'm RATNESH MAURYA
-- I'm 🤖 **Engineer** | 🎨 **Designer** 
-- Currently practicing **ANDROID DEVELOPMENT**
+- I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer** 
+- Currently practicing **DevOps**
 - Willing to contribute more and more in **Open Source Projects**
  <br>
   
@@ -46,30 +45,20 @@
 
  📈 GitHub Activity Graph:
  <p align="center">
-	<img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" /><br><br>
-
-	
-	
-
+	<img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="GitHub Streak"/>
+  </p>
 
  📈 GitHub Contribution Graph:
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratnesh-maurya&theme=monokai"/><br><br>
-
  </p>
 
  </details>
 
-
-
-		
-
-
- ### Feel Free to Contact me.....
+### Feel Free to Contact me.....
 <p align="centre">
 <a href="https://www.linkedin.com/in/ratnesh-maurya/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
-
 
 ### Profile views counter
 
