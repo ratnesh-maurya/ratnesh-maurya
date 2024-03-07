@@ -1,10 +1,24 @@
 ## Hi there, I'm RATNESH MAURYA
-- I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer** 
-- Currently practicing **DevOps**
-- Willing to contribute more and more in **Open Source Projects**
- <div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ratnesh_maurya_)
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/ratneshmaurya)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ratnesh-maurya/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratneshmaurya2311@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ratnesh_maury/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ratneshmaurya2311)
+
+
+
+ 
+  <img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+  - I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer** 
+  - Currently practicing **DevOps**
+  - Willing to contribute more and more in **Open Source Projects**
+   - 👯 I’m looking to collaborate on ... Any of project
+  - 💬 Ask me about ... What ever you want to ask.... :laughing:
+
    
 ## Programming Languages and Tools
 
@@ -55,11 +69,11 @@
 <details>
 <summary>:zap: My Stats</summary>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ratnesh-maurya&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=ratnesh-maurya&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
 <p align="center">
 	
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratnesh-maurya&theme=monokai)
@@ -68,8 +82,8 @@
 
  📈 GitHub Activity Graph:
  <p align="center">
-	<img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="GitHub Streak"/>
-  </p>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=monokai&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="GitHub Streak"/>
+ </p>
 
  📈 GitHub Contribution Graph:
  <p align="center">
@@ -78,16 +92,7 @@
 
  </details>
 
-### Feel Free to Contact me...
- <a href="https://www.linkedin.com/in/ratnesh-maurya/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="43" height="31" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="31" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="31" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="43" height="31" alt="devto logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="43" height="31" alt="medium logo"  />
-</div>
-</p>
+
 
 ### Profile views counter
 
