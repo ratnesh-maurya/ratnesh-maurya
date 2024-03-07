@@ -2,6 +2,9 @@
 - I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer** 
 - Currently practicing **DevOps**
 - Willing to contribute more and more in **Open Source Projects**
+ <div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
    
 ## Programming Languages and Tools
 
@@ -75,30 +78,8 @@
 
  </details>
 
-### Feel Free to Contact me.....
-<p align="centre">
-<a href="https://www.linkedin.com/in/ratnesh-maurya/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-</p>
-
-### Profile views counter
-
-![Visitor Count](https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg)
-<a href="https://icons8.com/icon/40669/c++">
-
-
-
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo"  />
+### Feel Free to Contact me...
+ <a href="https://www.linkedin.com/in/ratnesh-maurya/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="43" height="31" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="43" height="31" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="31" alt="gmail logo"  />
@@ -106,18 +87,11 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="43" height="31" alt="medium logo"  />
 </div>
+</p>
 
-###
+### Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg)
+<a href="https://icons8.com/icon/40669/c++">
 
 <img src="https://raw.githubusercontent.com/ratnesh-maurya/ratnesh-maurya/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratnesh-maurya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ratnesh-maurya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ratnesh-maurya&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ratnesh-maurya&theme=radical&column=9&row=1&margin-w=3&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
