@@ -10,7 +10,8 @@
 
 
  
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611c3nul8696w3bbbaca29m6hrzs8zkv8tu4onxvyba&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 
   - I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer** 
