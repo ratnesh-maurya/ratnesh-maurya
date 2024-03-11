@@ -10,16 +10,20 @@
 
 
  
-  <img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611c3nul8696w3bbbaca29m6hrzs8zkv8tu4onxvyba&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img align="right" height="300" src="https://stats.quine.sh/ratnesh-maurya/github?theme=light"  />
+      <br>
+          <br>
 
 
 
-  - I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer** 
+  - I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer**
   - Currently practicing **DevOps**
   - Willing to contribute more and more in **Open Source Projects**
    - 👯 I’m looking to collaborate on ... Any of project
   - 💬 Ask me about ... What ever you want to ask.... :laughing:
 
+    <br>
+    <br>
    
 ## Programming Languages and Tools
 
