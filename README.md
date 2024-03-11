@@ -10,13 +10,13 @@
 
 
  
-  <img align="right" height="300" src="https://stats.quine.sh/ratnesh-maurya/github?theme=light"  />
+  <img align="right" height="250" src="https://stats.quine.sh/ratnesh-maurya/github?theme=light"  />
       <br>
           <br>
 
 
 
-  - I'm 🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer**
+  -  🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer**
   - Currently practicing **DevOps**
   - Willing to contribute more and more in **Open Source Projects**
    - 👯 I’m looking to collaborate on ... Any of project
