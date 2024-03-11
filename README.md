@@ -12,7 +12,7 @@
  
   <img align="right" height="250" src="https://stats.quine.sh/ratnesh-maurya/github?theme=light"  />
       <br>
-          <br>
+        
 
 
 
@@ -22,7 +22,6 @@
    - 👯 I’m looking to collaborate on ... Any of project
   - 💬 Ask me about ... What ever you want to ask.... :laughing:
 
-    <br>
     <br>
    
 ## Programming Languages and Tools
