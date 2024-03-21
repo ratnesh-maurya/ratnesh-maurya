@@ -1,11 +1,11 @@
 ## Hi there, I'm RATNESH MAURYA
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ratnesh_maurya_)
-[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/ratneshmaurya)
-[<img src="https://img.shields.io/badge/linkedin-%230077B3.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ratnesh-maurya/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratneshmaurya2311@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4403F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ratnesh_maury/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ratneshmaurya2311)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ratnesh_maurya_){:target="_blank"}
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/ratneshmaurya){:target="_blank"}
+[<img src="https://img.shields.io/badge/linkedin-%230077B3.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ratnesh-maurya/){:target="_blank"}
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratneshmaurya2311@gmail.com){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4403F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ratnesh_maury/){:target="_blank"}
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ratneshmaurya2311){:target="_blank"}
 
 
 
