@@ -16,8 +16,7 @@
 
 
 
-  -  🤖 **Developer** | 🌐 **DevOps** | 🎨 **Designer**
-  - Currently practicing **DevOps**
+  -  🤖 **Golang Developer**
   - Willing to contribute more and more in **Open Source Projects**
    - 👯 I’m looking to collaborate on ... Any of project
   - 💬 Ask me about ... What ever you want to ask.... :laughing:
