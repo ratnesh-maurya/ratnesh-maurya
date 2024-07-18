@@ -102,4 +102,3 @@
 ![Visitor Count](https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg)
 <a href="https://icons8.com/icon/40669/c++">
 
-<img src="https://raw.githubusercontent.com/ratnesh-maurya/ratnesh-maurya/output/snake.svg" alt="Snake animation" />
