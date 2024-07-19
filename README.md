@@ -84,7 +84,7 @@
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratnesh-maurya&theme=github_dark" alt="Ratnesh Maurya stats" />
 <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-maurya&theme=github_dark" alt="Ratnesh Maurya github stats" /> 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=github_dark&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC3&sideLabels=1E90FF" alt="ratnesh github stats" />
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratnesh-maurya&theme=github_dark&utcOffset=8" alt="Ratnesh Maurya github stats" />
+
 </a>
 </div>
 
