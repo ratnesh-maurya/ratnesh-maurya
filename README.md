@@ -18,7 +18,7 @@
 
         
 
-- **About me** -> Software Development Engineer Intern @**initializ**
+- **About me** -> Software Development Engineer @**initializ**
 - My recent Projects:
   - [Rehabify](https://github.com/Ratnesh-Team/Rehabify)
   - [Unzip N Open](https://github.com/ratnesh-maurya/Unzip_N_Open)
