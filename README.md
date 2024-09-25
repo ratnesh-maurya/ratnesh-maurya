@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/ratnesh-maurya/">RATNESH MAURYA</a>  | Golang Developer </h1>
 
-
 <!-- Social Media  -->
 <div align="center">
     <a href="https://twitter.com/ratnesh_maurya_">Twitter</a> -
@@ -11,7 +10,7 @@
     <a href="https://medium.com/@ratneshmaurya2311">Medium</a> 
 </div>
 
------------------------------------------------------------------
+-----
 
 <!-- About Me section  -->
  <img align="right" height="220rem" src="https://stats.quine.sh/ratnesh-maurya/github?theme=light"  />
@@ -23,9 +22,7 @@
   - [Rehabify](https://github.com/Ratnesh-Team/Rehabify)
   - [Unzip N Open](https://github.com/ratnesh-maurya/Unzip_N_Open)
   - [Secrets Operator](https://github.com/initializ/secrets-operator)
-- I am also **AWS Certified Solutions Architect - Associate**
 
-- 👯 I’m looking to collaborate on ... Any of the projects
 
 <br>
 
@@ -65,18 +62,8 @@
   <img width="3" />
 </div>
  </details>
-	
 
-<h1 align="center">GitHub Stats</h1>
-<div align="center">
-<a href="https://github.com/ratnesh-maurya">
-<img height="150em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratnesh-maurya&theme=github_dark"/>	
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratnesh-maurya&theme=github_dark" alt="Ratnesh Maurya stats" />
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-maurya&theme=github_dark" alt="Ratnesh Maurya github stats" /> 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=ratnesh-maurya&theme=github_dark&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC3&sideLabels=1E90FF" alt="ratnesh github stats" />
 
-</a>
-</div>
 
 #### *Show some ❤️ by starring some of the repositories!*
 
