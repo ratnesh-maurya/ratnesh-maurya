@@ -71,10 +71,8 @@
 </div>
  </details>
 
-<br>
-<br>
-<h3 align="center"> Certifications
-</h3>
+<h2 align="center"> Certifications
+</h2>
 
 <div align="center">
   <a href="https://www.credly.com/badges/0feb784b-3712-41ad-8666-8e3b01ed17f8">
