@@ -10,8 +10,9 @@
     <a href="https://medium.com/@ratneshmaurya2311">Medium</a> 
 </div>
 
------
 
+<br>
+<br>
 <!-- About Me section  -->
  <img align="right" height="220rem" src="https://stats.quine.sh/ratnesh-maurya/github?theme=light"  />
 
@@ -25,9 +26,16 @@
 
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 <!-- Programming languages  -->
+
+
+
  <details>
 <summary><b>🛠Tech Stack</b></summary><br>
 <h2 align="center">Programming Languages and Tools I use</h2>
@@ -63,8 +71,24 @@
 </div>
  </details>
 
+<br>
+<br>
+<h3 align="center"> Certifications
+</h3>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/0feb784b-3712-41ad-8666-8e3b01ed17f8">
+    <img src="https://images.credly.com/size/220x220/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="Badge">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/2d49d590-5c98-4e64-915b-e9ca3e50ec62">
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Credly Badge">
+  </a>
+  </a>
+</div>
+
 
 
 #### *Show some ❤️ by starring some of the repositories!*
+
 
 <img height="20em" src="https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg" alt="ratnesh github views" />
