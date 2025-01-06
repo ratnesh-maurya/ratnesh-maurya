@@ -23,6 +23,7 @@
   - [Rehabify](https://github.com/Ratnesh-Team/Rehabify)
   - [Unzip N Open](https://github.com/ratnesh-maurya/Unzip_N_Open)
   - [Secrets Operator](https://github.com/initializ/secrets-operator)
+  - [Currency Converter](https://github.com/ratnesh-maurya/currency-converter)
 
 
 <br>
