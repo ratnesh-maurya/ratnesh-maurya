@@ -14,7 +14,7 @@
 <br>
 <br>
 <!-- About Me section  -->
- <img align="right" height="220rem" src="https://stats.quine.sh/ratnesh-maurya/github?theme=light"  />
+
 
         
 
