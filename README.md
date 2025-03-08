@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Development Engineer passionate about backend development and cloud-native technologies. Currently, I work at [Initializ](https://initializ.ai) .
+I'm a Software Development Engineer passionate about backend development and cloud-native technologies. Currently, I work at [Initializ](https://initializ.ai)
 
 - 🌱 I’m currently exploring advanced Golang, TypeScript, and cloud infrastructure.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
