@@ -1,99 +1,58 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/ratnesh-maurya/">RATNESH MAURYA</a>  | Golang Developer </h1>
-
-<!-- Social Media  -->
-<div align="center">
-    <a href="https://twitter.com/ratnesh_maurya_">Twitter</a> -
-    <a href="https://dev.to/ratneshmaurya">Dev.to </a> -
-    <a href="https://www.linkedin.com/in/ratnesh-maurya/">LinkedIn</a> -
-    <a href="mailto:ratneshmaurya2311@gmail.com">Gmail</a> -
-    <a href="https://www.instagram.com/ratnesh_maury/">Instagram</a> -
-    <a href="https://medium.com/@ratneshmaurya2311">Medium</a> 
-</div>
+# Hi there, I'm Ratnesh Maurya! 👋
 
 
-<br>
-<br>
-<!-- About Me section  -->
+## 🚀 About Me
+
+I'm a Software Development Engineer passionate about backend development and cloud-native technologies. Currently, I work at [Initializ](https://initializ.ai) .
+
+- 🌱 I’m currently exploring advanced Golang, TypeScript, and cloud infrastructure.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 💬 Ask me about Golang, TypeScript, AWS, Kubernetes, Docker, and API development.
+- 📫 How to reach me: [ratneshmaurya2311@gmail.com](mailto:ratneshmaurya2311@gmail.com)
 
 
-        
+## 🛠️ Technologies & Tools
 
-- **About me** -> Software Development Engineer @**initializ**
-- My recent Projects:
-  - [Rehabify](https://github.com/Ratnesh-Team/Rehabify)
-  - [Unzip N Open](https://github.com/ratnesh-maurya/Unzip_N_Open)
-  - [Secrets Operator](https://github.com/initializ/secrets-operator)
-  - [Currency Converter](https://github.com/ratnesh-maurya/currency-converter)
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<!-- Programming languages  -->
-
-
-
- <details>
-<summary><b>🛠Tech Stack</b></summary><br>
-<h2 align="center">Programming Languages and Tools I use</h2>
-<p align="center">
-	<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
-  <img width="3" />
-	  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="3" />
-	 <img src="https://img.shields.io/badge/Kubernetes-326CE3?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
-  <img width="3" />
-	<img src="https://img.shields.io/badge/Docker-3096ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Git-F03032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="sql logo"  />
-  <img width="3" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="sql logo"  />
-  <img width="3" />
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="sql logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Figma-F30E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Jira-0032CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Linux-FCC630?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img width="3" />
-</div>
- </details>
-
-<h2 align="center"> Certifications
-</h2>
-
-<div align="center">
-  <a href="https://www.credly.com/badges/0feb784b-3712-41ad-8666-8e3b01ed17f8">
-    <img src="https://images.credly.com/size/220x220/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob"style=" height: 150px; alt="Badge">
-	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
-  <a href="https://www.credly.com/badges/2d49d590-5c98-4e64-915b-e9ca3e50ec62">
-    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"style="height: 150px; alt="Credly Badge">
-  </a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/af06b77a-d878-48be-85a1-ea37bb893aaf">
-    <img src="https://images.credly.com/size/220x220/images/ee986187-6637-45e9-8184-8382dc117432/blob" style=" height: 150px;  alt="Credly Badge">
-  </a>
-</div>
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
+![Go-Gin](https://img.shields.io/badge/-Go_Gin-00ADD8?style=flat&logo=go&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=fff)
+![Phoenix](https://img.shields.io/badge/-Phoenix-FF6600?style=flat&logo=elixir&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
 
 
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ratnesh-maurya/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/ratnesh-maurya)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://twitter.com/ratnesh_maurya)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=fff)](https://ratn.tech/)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=hashnode&logoColor=fff)](https://ratn.tech/blogs)
 
 
-#### *Show some ❤️ by starring some of the repositories!*
+## 📝 Latest Blog Posts
+
+- [Optimizing Memory Layout in Go: A Deep Dive into Struct Design](https://ratn.tech/blogs/optimizing-memory-layout-in-go) - *Jan 25, 2025*
+- [Easily Deploy Your Nanoc Website to S3 with GitHub Actions](https://ratn.tech/blogs/deploy-nanoc-website-to-s3) - *Nov 23, 2024*
+- [Architectural Design for a Ride App such as OLA, UBER, RAPIDO](https://ratn.tech/blogs/architectural-design-ride-app) - *Jul 30, 2024*
+
+Check out more articles on my [Blog](https://ratn.tech/blogs).
 
 
-<img height="20em" src="https://profile-counter.glitch.me/{ratnesh-maurya}/count.svg" alt="ratnesh github views" />
+ 
