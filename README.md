@@ -41,7 +41,7 @@ I'm a Software Development Engineer passionate about backend development and clo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ratnesh-maurya/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/ratnesh-maurya)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://twitter.com/ratnesh_maurya)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://twitter.com/ratnesh_maurya_)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=fff)](https://ratn.tech/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=hashnode&logoColor=fff)](https://ratn.tech/blogs)
 
