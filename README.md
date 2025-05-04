@@ -5,7 +5,7 @@
 
 I'm a Software Development Engineer passionate about backend development and cloud-native technologies. Currently, I work at [Initializ](https://initializ.ai)
 
-- 🌱 I’m currently exploring advanced Golang, TypeScript, and cloud infrastructure.
+- 🌱 I’m currently exploring Golang and AI stuff
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about Golang, TypeScript, AWS, Kubernetes, Docker, and API development.
 - 📫 How to reach me: [ratneshmaurya2311@gmail.com](mailto:ratneshmaurya2311@gmail.com)
