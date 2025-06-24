@@ -1,7 +1,6 @@
-## About
-I'm a Software Development Engineer passionate about backend development and cloud-native technologies. Currently, I work at [Initializ](https://initializ.ai)
+I'm a Software Development Engineer passionate about backend development and cloud-native technologies. Currently, working at [Initializ](https://initializ.ai)
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
