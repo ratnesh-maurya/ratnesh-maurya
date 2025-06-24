@@ -1,15 +1,5 @@
-# Hi there, I'm Ratnesh Maurya! 👋
-
-
-## 🚀 About Me
-
+## About
 I'm a Software Development Engineer passionate about backend development and cloud-native technologies. Currently, I work at [Initializ](https://initializ.ai)
-
-- 🌱 I’m currently exploring Golang and AI stuff
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 💬 Ask me about Golang, TypeScript, AWS, Kubernetes, Docker, and API development.
-- 📫 How to reach me: [ratneshmaurya2311@gmail.com](mailto:ratneshmaurya2311@gmail.com)
-
 
 ## 🛠️ Technologies & Tools
 
@@ -36,22 +26,6 @@ I'm a Software Development Engineer passionate about backend development and clo
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
-
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ratnesh-maurya/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)](https://github.com/ratnesh-maurya)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://twitter.com/ratnesh_maurya_)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=fff)](https://ratn.tech/)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=hashnode&logoColor=fff)](https://ratn.tech/blogs)
-
-
-## 📝 Latest Blog Posts
-
-- [Optimizing Memory Layout in Go: A Deep Dive into Struct Design](https://ratn.tech/blogs/optimizing-memory-layout-in-go) - *Jan 25, 2025*
-- [Easily Deploy Your Nanoc Website to S3 with GitHub Actions](https://ratn.tech/blogs/deploy-nanoc-website-to-s3) - *Nov 23, 2024*
-- [Architectural Design for a Ride App such as OLA, UBER, RAPIDO](https://ratn.tech/blogs/architectural-design-ride-app) - *Jul 30, 2024*
 
 Check out more articles on my [Blog](https://ratn.tech/blogs).
 
