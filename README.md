@@ -26,7 +26,7 @@ I'm a Software Development Engineer passionate about backend development and clo
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
 
-Check out more articles on my [Blog](https://ratn.tech/blogs).
+Check out more articles on my [Blog](https://blog.ratnesh-maurya.com/blog/).
 
 
  
