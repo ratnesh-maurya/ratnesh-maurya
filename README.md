@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="sig.gif" alt="Ratnesh Maurya" width="600" />
-</div>
 
 
 <div align="center">
