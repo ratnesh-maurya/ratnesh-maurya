@@ -2,15 +2,12 @@
   <img src="sig.gif" alt="Ratnesh Maurya" width="600" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e8a020,100:1a1a2e&height=120&section=header" width="100%" />
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e8a020&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Backend+%26+Cloud-Native+Builder;Go+%7C+TypeScript+%7C+Python+%7C+Elixir;Distributed+Systems+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
 
 <div align="center">
   Building scalable systems at <a href="https://initializ.ai"><strong>Initializ</strong></a> &nbsp;·&nbsp; Passionate about backend, cloud-native, and developer tooling
